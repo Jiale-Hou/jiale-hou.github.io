@@ -2,29 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.apa.org/topics/social-media-internet'>social media</a>, <a href='https://www.sciencedirect.com/topics/social-sciences/international-press'>international news</a>, <a href='https://academic.oup.com/ct'>communication theory</a>, <a href='https://osf.io/'>open science</a>.
+subtitle: You can also call me Max :)
 
 profile:
   align: right
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center>Dublin based</center>
-    <center>Beijing occasionally</center>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<a href='https://www.apa.org/topics/social-media-internet'>social media</a>, <a href='https://www.sciencedirect.com/topics/social-sciences/international-press'>international news</a>, <a href='https://academic.oup.com/ct'>communication theory</a>, <a href='https://osf.io/'>open science</a>.
 
 I strive to understand the social media world and its impact.
 
