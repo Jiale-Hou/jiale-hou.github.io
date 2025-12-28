@@ -34,6 +34,6 @@ My research focuses on **social media & international news**, with a particular 
 
 I am a **PhD student** in the [School of Information and Communication Studies](https://www.ucd.ie/ics/) at University College Dublin.
 
-
+<br>
 ---
 <br>
