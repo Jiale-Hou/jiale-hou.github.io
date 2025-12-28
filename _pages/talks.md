@@ -5,7 +5,7 @@ title: Talks
 description: Seminar talks and conference presentations.
 years: 
 nav: true
-importance: 2
+nav order: 2
 ---
 
 <h2 class="year">{{2025}}</h2>
