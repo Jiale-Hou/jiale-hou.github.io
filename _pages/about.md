@@ -32,4 +32,4 @@ My research focuses on **social media & international news**, with a particular 
 
 **Currently**, my work explores how international news is selected, framed, and amplified on social media platforms, as well as how audiences engage with and make sense of global events online.
 
-I am a **PhD student** in the [School of Information and Communication Studies](https://www.ucd.ie/ics/) at University College Dublin.
+I am a **PhD student** in the [School of Information and Communication Studies](https://www.ucd.ie/ics/) at University College Dublin. <br> <br>
