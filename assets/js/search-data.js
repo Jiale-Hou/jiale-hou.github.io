@@ -464,9 +464,6 @@ ninja.data = [{
             },},{id: "talks-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "Talks",},{id: "talks-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
           section: "Talks",},{
         id: 'social-email',
         title: 'email',
