@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 description: Seminar talks and conference presentations.
 nav: true
-importance: 1
+nav_order: 3
 ---
 
 {% include talks.liquid %}
