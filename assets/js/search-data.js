@@ -464,7 +464,12 @@ ninja.data = [{
             },},{id: "talks-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "Talks",},{id: "talks-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          section: "Talks",},{id: "talks-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/talks_2/";
+            },},{id: "talks-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "Talks",},{
